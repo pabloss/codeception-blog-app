@@ -13,5 +13,8 @@
         "psr-4": {
             "App\\": "src/"
         }
+    },
+    "require-dev": {
+        "codeception/domain-assert": "^1.0"
     }
 }
