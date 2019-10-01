@@ -1,0 +1,17 @@
+{
+    "name": "pavulon/codeception-blog-app",
+    "require": {
+        "codeception/codeception": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Paweł Zimnowodzki",
+            "email": "p.zimnowodzki@moonfox.pl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
